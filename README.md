@@ -55,9 +55,7 @@ print("--------------------------------------------------------------")
 ``
 
 ## Output :
-<img width="674" height="353" alt="image" src="https://github.com/user-attachments/assets/b01c6a62-a93b-477f-9d2f-96509da20a88" />
+<img width="699" height="347" alt="image" src="https://github.com/user-attachments/assets/141f4138-d74c-43b4-aa24-da6dd358c37c" />
 
-
-## Result : 
-
+# Result
 Thus the Multiple server with infinite capacity - (M/M/c):(oo/FIFO) program has been successfully verified
