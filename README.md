@@ -52,7 +52,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-``
+```
 
 ## Output :
 <img width="699" height="347" alt="image" src="https://github.com/user-attachments/assets/141f4138-d74c-43b4-aa24-da6dd358c37c" />
